@@ -49,7 +49,7 @@ You can view the live portfolio (if deployed on GitHub Pages or other hosting):
 
 ➡️ https://github.com/sarvadaanvekar17-bit/My-Portfolio
 
-*(Replace with the actual live link if different.)*
+
 
 ---
 
