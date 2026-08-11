@@ -45,8 +45,7 @@ MyPortfolio/
 ---
 
 ## View Live
-You can view the live portfolio (if deployed on GitHub Pages or other hosting):
-
+You can view the live portfolio 
 ➡️ https://github.com/sarvadaanvekar17-bit/My-Portfolio
 
 
