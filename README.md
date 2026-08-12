@@ -6,7 +6,7 @@ This is the source code for my personal portfolio website — a place to showcas
 ---
 
 ## About Me
-Hi, I’m **Sarvada Anvekar** — a passionate web developer and student of Computer Engineering.  
+Hi, I’m **Sarvada sanjay Anvekar** — a passionate web developer and student of Computer Engineering.  
 This portfolio website is designed to highlight my skills, projects, and achievements.
 
 ---
